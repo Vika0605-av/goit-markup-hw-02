@@ -51,8 +51,8 @@ letter-spacing: 0.02em;
  color: #434455;
 }
 
-.contacts-link.nav-link:hover,
-.contacts-link.nav-link:focus {
+.contacts-link:hover,
+.contacts-link:focus {
    color: #404bbf;
 }
 
